@@ -1,3 +1,5 @@
+Just a simple project with FrontEnd and backEnd
+
 if you wanna test this project , first you'll need to install mongodb server and compass 
 
 then create a database called auth and create two tables -> todos and users
